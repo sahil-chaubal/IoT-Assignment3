@@ -1,4 +1,4 @@
-# CIS600 IoT Assignment 3: Cloud-based IoT System using AWS IoT Core
+# CIS600 IoT Assignment 3
 
 Welcome to the CIS600 IoT Assignment 3 repository!
 
