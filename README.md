@@ -28,7 +28,7 @@ Follow these steps to set up AWS IoT Core for your project:
 
         Log in to the AWS Management Console and navigate to AWS IoT Core.
         Under Manage → Things, click Create things and select Create a single thing.
-        Give your thing a unique name (e.g., station001) and finish the setup.
+        Give your thing a unique name (e.g., IoT) and finish the setup.
 
     Generate and Download Certificates:
         After creating your thing, generate a device certificate.
